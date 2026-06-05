@@ -84,15 +84,6 @@ Plataforma **multi-tenant** que conecta cidadãos a gabinetes políticos para re
 
 ---
 
-## 📊 GitHub
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=berdnaski&show_icons=true&hide_border=true&count_private=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berdnaski&layout=compact&hide_border=true&langs_count=8&theme=tokyonight" />
-</p>
-
----
-
 ## 📫 Contato
 
 <p align="left">
